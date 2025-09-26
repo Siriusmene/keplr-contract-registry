@@ -50,7 +50,7 @@
   "packageManager": "yarn@3.4.1",
   "dependencies": {
     "@keplr-wallet/common": "^0.12.12",
-    "@keplr-wallet/cosmos": "^0.12.12",
+    "@keplr-wallet/cosmos": "^0.12.269",
     "axios": "^1.4.0",
     "curve25519-js": "^0.0.4",
     "image-size": "^1.1.1",
