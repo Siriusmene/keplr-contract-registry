@@ -4,6 +4,7 @@
     "metadata": {
         "name": "USTC Repeg",
         "symbol": "USTR",
-        "decimals": 6
+        "decimals": 18
     }
+
 }
