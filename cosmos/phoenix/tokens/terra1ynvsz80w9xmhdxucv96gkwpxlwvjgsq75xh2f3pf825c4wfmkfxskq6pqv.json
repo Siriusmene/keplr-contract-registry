@@ -1,0 +1,9 @@
+{
+  "contractAddress": "terra1ynvsz80w9xmhdxucv96gkwpxlwvjgsq75xh2f3pf825c4wfmkfxskq6pqv",
+  "imageUrl": "https://raw.githubusercontent.com/Studio-Mojo/keplr-contract-registry/main/images/phoenix/gem.png",
+  "metadata": {
+    "name": "GEM Token",
+    "symbol": "GEM",
+    "decimals": 6
+  }
+}
