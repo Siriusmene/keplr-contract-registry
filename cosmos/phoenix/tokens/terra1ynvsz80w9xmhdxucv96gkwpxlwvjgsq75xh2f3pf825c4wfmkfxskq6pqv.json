@@ -1,0 +1,9 @@
+{
+  "contractAddress": "terra1ynvsz80w9xmhdxucv96gkwpxlwvjgsq75xh2f3pf825c4wfmkfxskq6pqv",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/phoenix/gem.png",
+  "metadata": {
+    "symbol": "GEM",
+    "name": "GEM DAO",
+    "decimals": 6
+  }
+}
